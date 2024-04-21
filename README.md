@@ -1,4 +1,4 @@
-# Significo Clone
+# Significo Clone Website
 
 Welcome to the Significo Clone repository! This project is a clone of Significo, built using HTML, Tailwind CSS, GSAP, and Locomotive Scroll for smooth scrolling effects.
 
